@@ -1,0 +1,22 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodel="clr-namespace:TrackIT.ViewModel"
+             x:Class="TrackIt.MainPage"
+             Title="Accueil"
+             BackgroundColor="#101314">
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Button Text="Track It"
+                FontSize="24"
+                Command="{Binding NavigateToTrackIt}"/>
+
+        <Button Text="Profile"
+                FontSize="24"
+                Command="{Binding NavigateToProfile}"/>
+
+        <Button Text="Paramètres"
+                FontSize="24"
+                Command="{Binding NavigateToSettings}"/>
+    </StackLayout>
+
+</ContentPage>
