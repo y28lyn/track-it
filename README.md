@@ -1,4 +1,4 @@
-# ![image](https://github.com/y28lyn/track-it/assets/97447648/b79ffc7f-93fd-49e3-b402-6c6750919463 =30x30) Track It
+# <img width="30px" height="30px" alt="icone" src="https://github.com/y28lyn/track-it/assets/97447648/b79ffc7f-93fd-49e3-b402-6c6750919463"> Track It
 
 Track It est une application de suivi de médication développée avec .NET MAUI (Multi-platform App UI). Cette application aide les utilisateurs à suivre leur prise de médicaments afin d'éviter d'oublier s'ils les ont pris ou non. Les utilisateurs peuvent enregistrer, modifier et supprimer les médicaments pris.
 
