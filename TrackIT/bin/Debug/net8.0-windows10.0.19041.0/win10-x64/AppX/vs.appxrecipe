@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.trackit</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\ibeir\dev\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>198C5D9F336648C3F7CE1B7FAA3A3F1AE925D29DB1F0D5E8F6D6614EE7D6C164</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.trackit_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.trackit_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,268 +27,268 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ibeir\dev\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-26T07:56:43.825</Modified>
+      <Modified>2024-03-26T13:17:04.314</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-03-19T15:34:08.637</Modified>
+      <Modified>2024-03-26T13:17:03.897</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TrackIT.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TrackIT.runtimeconfig.json">
       <PackagePath>TrackIT.runtimeconfig.json</PackagePath>
-      <Modified>2024-03-19T15:34:08.318</Modified>
+      <Modified>2024-03-26T13:17:03.348</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TrackIT.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TrackIT.dll">
       <PackagePath>TrackIT.dll</PackagePath>
-      <Modified>2024-03-26T07:56:43.085</Modified>
+      <Modified>2024-03-26T13:17:00.684</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TrackIT.exe</PackagePath>
-      <Modified>2024-03-26T07:56:43.091</Modified>
+      <Modified>2024-03-26T13:17:00.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-03-19T10:19:05.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-03-19T15:21:43.134</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-03-19T15:21:43.151</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-03-19T15:21:43.175</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-03-19T15:21:43.208</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-03-19T15:21:43.347</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-03-19T10:19:05.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-03-19T10:19:05.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-03-19T15:21:43.483</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-03-19T15:21:44.139</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-03-19T15:21:44.170</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-03-19T15:21:44.194</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-03-19T15:21:44.235</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-03-19T15:21:44.377</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-03-19T15:21:43.665</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-03-19T15:21:43.675</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-03-19T15:21:43.711</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-03-19T15:21:43.684</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-03-19T15:21:43.694</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-03-19T15:21:43.614</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-03-19T15:21:43.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-03-19T15:21:43.655</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-03-19T15:21:43.630</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-03-19T15:21:43.638</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-03-19T15:21:43.501</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-03-19T15:21:43.510</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-03-19T15:21:43.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-03-19T15:21:43.530</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-03-19T15:21:43.546</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-03-19T15:21:43.555</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-03-19T15:21:43.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-03-19T15:21:43.604</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-03-19T15:21:43.574</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-03-19T15:21:43.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-03-19T15:21:43.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-03-19T15:21:43.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-03-19T15:21:43.876</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-03-19T15:21:43.901</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-03-19T15:21:43.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-03-19T15:21:43.771</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-03-19T15:21:43.782</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-03-19T15:21:43.794</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-03-19T15:21:43.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-03-19T15:21:43.826</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-03-19T15:21:43.719</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-03-19T15:21:43.729</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-03-19T15:21:43.739</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-03-19T15:21:43.748</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-03-19T15:21:43.762</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-03-19T15:21:43.969</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-03-19T15:21:43.991</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-03-19T15:21:44.018</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-03-19T15:21:44.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-03-19T15:21:44.118</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-03-19T15:21:43.477</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-03-19T15:21:43.494</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-03-19T15:21:43.512</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-03-19T15:21:43.542</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-03-19T15:21:43.639</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\OneDrive\Bureau\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TrackIT.deps.json">
+    <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TrackIT.deps.json">
       <PackagePath>TrackIT.deps.json</PackagePath>
-      <Modified>2024-03-19T15:34:08.166</Modified>
+      <Modified>2024-03-26T13:17:03.096</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -346,33 +346,33 @@
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
       <Modified>2023-05-31T20:07:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.compatibility\8.0.10\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.compatibility\8.0.14\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
-      <Modified>2024-03-11T21:11:44.000</Modified>
+      <Modified>2024-03-19T11:35:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
       <PackagePath>Microsoft.Maui.Controls.dll</PackagePath>
-      <Modified>2024-03-11T21:09:08.000</Modified>
+      <Modified>2024-03-19T11:34:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.xaml\8.0.10\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.xaml\8.0.14\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
       <PackagePath>Microsoft.Maui.Controls.Xaml.dll</PackagePath>
-      <Modified>2024-03-11T21:09:34.000</Modified>
+      <Modified>2024-03-19T11:33:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.core\8.0.10\lib\net8.0-windows10.0.19041\Microsoft.Maui.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.core\8.0.14\lib\net8.0-windows10.0.19041\Microsoft.Maui.dll">
       <PackagePath>Microsoft.Maui.dll</PackagePath>
-      <Modified>2024-03-11T21:09:58.000</Modified>
+      <Modified>2024-03-19T11:34:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.essentials\8.0.10\lib\net8.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.essentials\8.0.14\lib\net8.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
       <PackagePath>Microsoft.Maui.Essentials.dll</PackagePath>
-      <Modified>2024-03-11T21:12:28.000</Modified>
+      <Modified>2024-03-19T11:36:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.graphics\8.0.10\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.graphics\8.0.14\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
-      <Modified>2024-03-11T21:09:48.000</Modified>
+      <Modified>2024-03-19T11:34:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\8.0.10\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\8.0.14\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
-      <Modified>2024-03-11T21:11:44.000</Modified>
+      <Modified>2024-03-19T11:36:22.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.windowsappsdk\1.4.240211001\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
@@ -430,145 +430,161 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-02-11T20:01:58.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2021-09-02T21:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\sqlitepclraw.bundle_green\2.1.8\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2024-02-05T21:23:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\sqlitepclraw.core\2.1.8\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2024-02-05T21:20:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.8\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2024-02-05T21:21:02.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\system.speech\8.0.0-rc.2.23479.6\runtimes\win\lib\net8.0\System.Speech.dll">
       <PackagePath>System.Speech.dll</PackagePath>
       <Modified>2023-09-29T19:04:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:10:00.000</Modified>
+      <Modified>2024-03-19T11:33:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\ca\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\ca\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ca\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:28.000</Modified>
+      <Modified>2024-03-19T11:34:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\cs\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\cs\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>cs\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:32.000</Modified>
+      <Modified>2024-03-19T11:33:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\da\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\da\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>da\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:28.000</Modified>
+      <Modified>2024-03-19T11:34:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\de\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\de\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>de\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:38.000</Modified>
+      <Modified>2024-03-19T11:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\el\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\el\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>el\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:02.000</Modified>
+      <Modified>2024-03-19T11:33:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\es\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\es\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>es\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:32.000</Modified>
+      <Modified>2024-03-19T11:34:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\fi\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\fi\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>fi\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:02.000</Modified>
+      <Modified>2024-03-19T11:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\fr\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\fr\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>fr\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:58.000</Modified>
+      <Modified>2024-03-19T11:33:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\he\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\he\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>he\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:06.000</Modified>
+      <Modified>2024-03-19T11:33:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\hi\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\hi\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>hi\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:08.000</Modified>
+      <Modified>2024-03-19T11:33:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\hr\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\hr\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>hr\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:08.000</Modified>
+      <Modified>2024-03-19T11:34:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\hu\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\hu\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>hu\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:06.000</Modified>
+      <Modified>2024-03-19T11:34:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\id\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\id\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>id\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:34.000</Modified>
+      <Modified>2024-03-19T11:34:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\it\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\it\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>it\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:06.000</Modified>
+      <Modified>2024-03-19T11:33:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\ja\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\ja\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ja\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:56.000</Modified>
+      <Modified>2024-03-19T11:33:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\ko\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\ko\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ko\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:58.000</Modified>
+      <Modified>2024-03-19T11:35:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\ms\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\ms\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ms\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:10:02.000</Modified>
+      <Modified>2024-03-19T11:34:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\nb\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\nb\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>nb\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:36.000</Modified>
+      <Modified>2024-03-19T11:33:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\nl\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\nl\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>nl\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:58.000</Modified>
+      <Modified>2024-03-19T11:33:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\pl\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\pl\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>pl\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:06.000</Modified>
+      <Modified>2024-03-19T11:34:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\pt-BR\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\pt-BR\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>pt-BR\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:36.000</Modified>
+      <Modified>2024-03-19T11:37:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\pt\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\pt\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>pt\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:08.000</Modified>
+      <Modified>2024-03-19T11:33:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\ro\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\ro\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ro\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:56.000</Modified>
+      <Modified>2024-03-19T11:33:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\ru\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\ru\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ru\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:34.000</Modified>
+      <Modified>2024-03-19T11:34:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\sk\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\sk\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>sk\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:32.000</Modified>
+      <Modified>2024-03-19T11:33:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\sv\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\sv\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>sv\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:34.000</Modified>
+      <Modified>2024-03-19T11:33:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\th\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\th\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>th\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:06.000</Modified>
+      <Modified>2024-03-19T11:33:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\tr\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\tr\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>tr\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:06.000</Modified>
+      <Modified>2024-03-19T11:33:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\uk\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\uk\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>uk\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:34.000</Modified>
+      <Modified>2024-03-19T11:33:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\vi\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\vi\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>vi\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:34.000</Modified>
+      <Modified>2024-03-19T11:33:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\zh-HK\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\zh-HK\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>zh-HK\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:10:00.000</Modified>
+      <Modified>2024-03-19T11:33:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\zh-Hans\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\zh-Hans\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>zh-Hans\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:56.000</Modified>
+      <Modified>2024-03-19T11:33:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\zh-Hant\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\zh-Hant\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>zh-Hant\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-03-11T21:09:28.000</Modified>
+      <Modified>2024-03-19T11:34:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.graphics.win2d\1.0.5.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
@@ -578,17 +594,21 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-02-11T15:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.compatibility\8.0.10\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.8\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2024-02-05T21:13:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.compatibility\8.0.14\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
-      <Modified>2024-03-11T20:42:14.000</Modified>
+      <Modified>2024-03-19T11:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.10\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.controls.core\8.0.14\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
       <PackagePath>Microsoft.Maui.Controls.pri</PackagePath>
-      <Modified>2024-03-11T20:21:24.000</Modified>
+      <Modified>2024-03-19T11:17:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.core\8.0.10\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
+    <AppxPackagedFile Include="C:\Users\ibeir\.nuget\packages\microsoft.maui.core\8.0.14\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
-      <Modified>2024-03-11T19:54:40.000</Modified>
+      <Modified>2024-03-19T11:15:10.000</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

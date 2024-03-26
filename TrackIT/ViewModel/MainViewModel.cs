@@ -7,7 +7,6 @@ public class MainViewModel
     public ICommand NavigateToProfile { get; }
     public ICommand NavigateToSettings { get; }
 
-
     public MainViewModel()
     {
         NavigateToTrackIt = new Command(async () => await TrackItPage());
@@ -30,4 +29,3 @@ public class MainViewModel
         await Shell.Current.GoToAsync(nameof(SettingsPage));
     }
 }
-

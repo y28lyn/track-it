@@ -23,7 +23,11 @@ public static class MauiProgram
         builder.Services.AddTransient<TrackItPage>();
         builder.Services.AddTransient<TrackItViewModel>();
 
+        builder.Services.AddTransient<ProfilePage>();
+        builder.Services.AddTransient<ProfileViewModel>();
 
+        builder.Services.AddTransient<SettingsPage>();
+        builder.Services.AddTransient<SettingsViewModel>();
 
 #if DEBUG
         builder.Logging.AddDebug();

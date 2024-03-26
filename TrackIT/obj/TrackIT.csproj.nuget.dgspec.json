@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibeir\\OneDrive\\Bureau\\track-it\\TrackIT\\TrackIT.csproj": {}
+    "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\TrackIT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibeir\\OneDrive\\Bureau\\track-it\\TrackIT\\TrackIT.csproj": {
+    "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\TrackIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibeir\\OneDrive\\Bureau\\track-it\\TrackIT\\TrackIT.csproj",
+        "projectUniqueName": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\TrackIT.csproj",
         "projectName": "TrackIT",
-        "projectPath": "C:\\Users\\ibeir\\OneDrive\\Bureau\\track-it\\TrackIT\\TrackIT.csproj",
+        "projectPath": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\TrackIT.csproj",
         "packagesPath": "C:\\Users\\ibeir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibeir\\OneDrive\\Bureau\\track-it\\TrackIT\\obj\\",
+        "outputPath": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -80,17 +80,25 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.14, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.14, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.2, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -131,17 +139,25 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.14, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.14, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.2, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -182,17 +198,25 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.14, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.14, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.2, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -234,11 +258,19 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.14, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.14, )"
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [

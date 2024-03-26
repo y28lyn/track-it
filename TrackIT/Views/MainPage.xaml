@@ -5,12 +5,12 @@
              Title="Accueil"
              BackgroundColor="#101314">
 
-    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="10">
         <Button Text="Track It"
                 FontSize="24"
                 Command="{Binding NavigateToTrackIt}"/>
 
-        <Button Text="Profile"
+        <Button Text="Profil"
                 FontSize="24"
                 Command="{Binding NavigateToProfile}"/>
 
