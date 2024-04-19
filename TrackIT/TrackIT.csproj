@@ -57,23 +57,42 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="CommunityToolkit.Maui.Core" Version="7.0.1" />
-		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
-		<PackageReference Include="Microsoft.Maui.Controls" Version="8.0.14" />
-		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="8.0.14" />
-		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
-		<PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
-		<PackageReference Include="SQLitePCLRaw.bundle_green" Version="2.1.8" />
+	  <AndroidResource Remove="Data\**" />
+	  <AndroidResource Remove="Platforms\Android\Resources\NewFolder\**" />
+	  <Compile Remove="Data\**" />
+	  <Compile Remove="Platforms\Android\Resources\NewFolder\**" />
+	  <EmbeddedResource Remove="Data\**" />
+	  <EmbeddedResource Remove="Platforms\Android\Resources\NewFolder\**" />
+	  <MauiCss Remove="Data\**" />
+	  <MauiCss Remove="Platforms\Android\Resources\NewFolder\**" />
+	  <MauiXaml Remove="Data\**" />
+	  <MauiXaml Remove="Platforms\Android\Resources\NewFolder\**" />
+	  <None Remove="Data\**" />
+	  <None Remove="Platforms\Android\Resources\NewFolder\**" />
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="Views\ProfilePage.xaml">
+	  <Compile Remove="ViewModel\ProfileViewModel - Copier.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="CommunityToolkit.Maui.Core" Version="8.0.1" />
+		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
+		<PackageReference Include="Microsoft.Maui.Controls" Version="8.0.20" />
+		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="8.0.20" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Pages\ProfilePage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Views\SettingsPage.xaml">
+	  <MauiXaml Update="Pages\SettingsPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Views\TrackItPage.xaml">
+	  <MauiXaml Update="Pages\TrackItPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

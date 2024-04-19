@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
-using TrackIt;
 using TrackIT.ViewModel;
+using CommunityToolkit.Maui.Core;
 
 namespace TrackIT;
 
@@ -9,6 +9,9 @@ public static class MauiProgram
     public static MauiApp CreateMauiApp()
     {
         var builder = MauiApp.CreateBuilder();
+
+        builder.UseMauiApp<App>().UseMauiCommunityToolkitCore();
+
         builder
             .UseMauiApp<App>()
             .ConfigureFonts(fonts =>
@@ -17,8 +20,8 @@ public static class MauiProgram
                 fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
             });
 
-        builder.Services.AddSingleton<MainPage>();
-        builder.Services.AddSingleton<MainViewModel>();
+        builder.Services.AddTransient<MainPage>();
+        builder.Services.AddTransient<MainPage>();
 
         builder.Services.AddTransient<TrackItPage>();
         builder.Services.AddTransient<TrackItViewModel>();

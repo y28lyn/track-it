@@ -1,17 +1,26 @@
+using CommunityToolkit.Mvvm.ComponentModel;
 using System.Windows.Input;
-using TrackIT;
 
-public class MainViewModel
+namespace TrackIT.ViewModel;
+
+public class MainViewModel : ObservableObject
 {
+    public ICommand NavigateToHome { get; }
     public ICommand NavigateToTrackIt { get; }
     public ICommand NavigateToProfile { get; }
     public ICommand NavigateToSettings { get; }
 
     public MainViewModel()
     {
+        NavigateToHome = new Command(async () => await MainPage());
         NavigateToTrackIt = new Command(async () => await TrackItPage());
         NavigateToProfile = new Command(async () => await ProfilePage());
         NavigateToSettings = new Command(async () => await SettingsPage());
+    }
+
+    private async Task MainPage()
+    {
+        await Shell.Current.GoToAsync("///MainPage");
     }
 
     private async Task TrackItPage()

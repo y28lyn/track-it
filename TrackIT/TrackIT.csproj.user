@@ -11,13 +11,13 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
-    <MauiXaml Update="Views\ProfilePage.xaml">
+    <MauiXaml Update="Pages\ProfilePage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Views\SettingsPage.xaml">
+    <MauiXaml Update="Pages\SettingsPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Views\TrackItPage.xaml">
+    <MauiXaml Update="Pages\TrackItPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
