@@ -1,4 +1,3 @@
-using Newtonsoft.Json;
 using TrackIT.ViewModel;
 
 namespace TrackIT;

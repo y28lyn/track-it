@@ -1,6 +1,7 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using CommunityToolkit.Maui.Core;
+using Microsoft.Extensions.Logging;
+using TrackIT.Pages;
 using TrackIT.ViewModel;
-using CommunityToolkit.Maui.Core;
 
 namespace TrackIT;
 
@@ -31,6 +32,9 @@ public static class MauiProgram
 
         builder.Services.AddTransient<SettingsPage>();
         builder.Services.AddTransient<SettingsViewModel>();
+
+        builder.Services.AddTransient<RegisterPage>();
+        builder.Services.AddTransient<RegisterViewModel>();
 
 #if DEBUG
         builder.Logging.AddDebug();

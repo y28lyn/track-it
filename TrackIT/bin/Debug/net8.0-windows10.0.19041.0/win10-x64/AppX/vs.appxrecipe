@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\ibeir\dev\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-18T11:37:03.409</Modified>
+      <Modified>2024-04-21T11:31:26.858</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TrackIT.dll">
       <PackagePath>TrackIT.dll</PackagePath>
-      <Modified>2024-04-18T11:37:02.408</Modified>
+      <Modified>2024-04-21T11:31:26.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TrackIT.exe</PackagePath>
-      <Modified>2024-04-18T11:37:02.415</Modified>
+      <Modified>2024-04-21T11:31:26.057</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibeir\dev\track-it\TrackIT\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

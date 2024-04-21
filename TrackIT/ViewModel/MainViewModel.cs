@@ -9,6 +9,7 @@ public class MainViewModel : ObservableObject
     public ICommand NavigateToTrackIt { get; }
     public ICommand NavigateToProfile { get; }
     public ICommand NavigateToSettings { get; }
+    public ICommand NavigateToRegister { get; }
 
     public MainViewModel()
     {
@@ -16,6 +17,7 @@ public class MainViewModel : ObservableObject
         NavigateToTrackIt = new Command(async () => await TrackItPage());
         NavigateToProfile = new Command(async () => await ProfilePage());
         NavigateToSettings = new Command(async () => await SettingsPage());
+        NavigateToRegister = new Command(async () => await RegisterPage());
     }
 
     private async Task MainPage()
@@ -36,5 +38,10 @@ public class MainViewModel : ObservableObject
     private async Task SettingsPage()
     {
         await Shell.Current.GoToAsync(nameof(SettingsPage));
+    }
+
+    private async Task RegisterPage()
+    {
+        await Shell.Current.GoToAsync(nameof(RegisterPage));
     }
 }

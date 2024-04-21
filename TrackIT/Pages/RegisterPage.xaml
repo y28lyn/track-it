@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrackIT.Pages.RegisterPage"
+             Title="RegisterPage">
+    <StackLayout Padding="30" Spacing="20">
+        <Entry x:Name="LastNameEntry" Placeholder="Nom" />
+        <Entry x:Name="FirstNameEntry" Placeholder="Prénom" />
+        <Entry x:Name="EmailEntry" Placeholder="Email" />
+        <Entry x:Name="PasswordEntry" Placeholder="Mot de passe" IsPassword="True" />
+        <Button Text="S'inscrire" Clicked="OnSignUpButtonClicked" />
+    </StackLayout>
+</ContentPage>

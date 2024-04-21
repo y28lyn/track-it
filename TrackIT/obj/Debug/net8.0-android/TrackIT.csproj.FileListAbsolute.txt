@@ -1145,6 +1145,7 @@ C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\lp\155\jl\files.cac
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\lp\156\jl\files.cache
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\lp\157\jl\files.cache
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\lp\158\jl\files.cache
+C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\R.txt
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\_Microsoft.Android.Resource.Designer.dll
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\R.cs.flag
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\TrackIT.GeneratedMSBuildEditorConfig.editorconfig
@@ -1162,7 +1163,7 @@ C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\bin\base.zi
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\bin\com.companyname.trackit.aab
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\bin\com.companyname.trackit.apks
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\res\values\colors.xml
-C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\R.txt
+C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\res\xml\network_security_config.xml
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\uploadflags.txt
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\resolvedassemblies.hash
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\assets\ar\Microsoft.Maui.Controls.resources.dll
@@ -1189,7 +1190,6 @@ C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\assets\Java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\assets\ja\Microsoft.Maui.Controls.resources.dll
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\assets\Jsr305Binding.dll
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\assets\ko\Microsoft.Maui.Controls.resources.dll
-C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\assets\machine.config
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\assets\Microsoft.CSharp.dll
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\assets\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\assets\Microsoft.EntityFrameworkCore.dll
@@ -1563,6 +1563,7 @@ C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\AndroidManifest.xml
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\AndroidManifest.xml
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\mono\MonoRuntimeProvider.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\mono\JavaInteropTypeManager.java
+C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\assets\machine.config
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\bin\mono.android.jar
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\static.flag
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\__environment__.txt
@@ -1633,7 +1634,6 @@ C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\android
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\androidx\window\R.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\com\bumptech\glide\gifdecoder\R.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\com\bumptech\glide\R.java
-C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\com\companyname\trackit\R.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\com\google\android\material\R.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\com\microsoft\maui\R.java
@@ -1713,6 +1713,7 @@ C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\crc6452
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\crc6452ffdc5b34af3a0f\MauiDatePicker.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\crc6452ffdc5b34af3a0f\MauiHorizontalScrollView.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\crc6452ffdc5b34af3a0f\MauiMaterialButton.java
+C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\crc6452ffdc5b34af3a0f\MauiMaterialButton_MauiResizableDrawable.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPageControl.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPageControl_TEditClickListener.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPicker.java
@@ -2070,6 +2071,7 @@ C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\mono\co
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\bin\packaged_resources
+C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\com\companyname\trackit\R.java
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\compressed_assemblies.x86_64.ll
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\typemaps.x86_64.o
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\environment.x86_64.o
@@ -2087,5 +2089,3 @@ C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\stamp\_ConvertResou
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\res\xml\network_security_config.xml
-C:\Users\ibeir\dev\track-it\TrackIT\obj\Debug\net8.0-android\android\src\crc6452ffdc5b34af3a0f\MauiMaterialButton_MauiResizableDrawable.java

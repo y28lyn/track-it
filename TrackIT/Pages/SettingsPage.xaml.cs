@@ -2,9 +2,9 @@ namespace TrackIT;
 
 public partial class SettingsPage : ContentPage
 {
-	public SettingsPage()
-	{
-		InitializeComponent();
+    public SettingsPage()
+    {
+        InitializeComponent();
         BindingContext = new ViewModel.MainViewModel();
     }
 }

@@ -5,7 +5,6 @@ namespace TrackIT.ViewModel
 {
     public class ProfileViewModel : ObservableObject
     {
-        public ICommand ConnectCommand { get; }
         public ICommand NavigateToHome { get; }
         public ICommand NavigateToTrackIt { get; }
         public ICommand NavigateToProfile { get; }

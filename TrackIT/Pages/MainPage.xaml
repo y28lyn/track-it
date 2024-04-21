@@ -48,7 +48,10 @@
 
         <!-- Contenu de la page -->
         <StackLayout Grid.Row="1" VerticalOptions="Center" HorizontalOptions="Center" Spacing="10">
-            <!-- Ajoutez votre contenu ici -->
+            <Entry x:Name="EmailEntry" Placeholder="Email" />
+            <Entry x:Name="PasswordEntry" Placeholder="Mot de passe" IsPassword="True" />
+            <Button Text="Se connecter" Clicked="OnLoginButtonClicked" />
+            <Button Text="Pas encore inscrit ?" Command="{Binding NavigateToRegister}" />
         </StackLayout>
     </Grid>
 </ContentPage>
