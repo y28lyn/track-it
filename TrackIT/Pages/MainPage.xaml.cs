@@ -37,11 +37,19 @@ public partial class MainPage : ContentPage
                 var responseContent = await response.Content.ReadAsStringAsync();
                 var result = JsonSerializer.Deserialize<LoginResult>(responseContent);
 
-                if (result != null && result.success)
+                if (result != null && result.success && result.user != null)
                 {
+                    Preferences.Set("UserId", result.user.id);
+                    Preferences.Set("UserName", result.user.nom);
+                    Preferences.Set("UserFirstName", result.user.prenom);
+
                     await DisplayAlert("Succès", "Connexion réussie.", "OK");
-                    // Rediriger vers la page suivante ou effectuer d'autres actions nécessaires après la connexion réussie
+
+                    await Task.Delay(1000);
+
+                    await Navigation.PushAsync(new TrackItPage());
                 }
+
                 else
                 {
                     await DisplayAlert("Erreur", "Identifiants incorrects.", "OK");
@@ -63,5 +71,13 @@ public partial class MainPage : ContentPage
     {
         public bool success { get; set; }
         public string? message { get; set; }
+        public User? user { get; set; }
+    }
+
+    public class User
+    {
+        public int id { get; set; }
+        public string? nom { get; set; }
+        public string? prenom { get; set; }
     }
 }

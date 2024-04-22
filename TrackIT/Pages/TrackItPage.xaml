@@ -11,19 +11,9 @@
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
-
-            <Button Text="Accueil"
-                    Grid.Column="0"
-                    FontSize="12"
-                    TextColor="White"
-                    BackgroundColor="Transparent"
-                    BorderColor="Transparent"
-                    Command="{Binding NavigateToHome}" />
-
             <Button Text="Track It"
-                    Grid.Column="1"
+                    Grid.Column="0"
                     FontSize="12"
                     TextColor="White"
                     BackgroundColor="Transparent"
@@ -31,7 +21,7 @@
                     Command="{Binding NavigateToTrackIt}" />
 
             <Button Text="Profil"
-                    Grid.Column="2"
+                    Grid.Column="1"
                     FontSize="12"
                     TextColor="White"
                     BackgroundColor="Transparent"
@@ -39,7 +29,7 @@
                     Command="{Binding NavigateToProfile}" />
 
             <Button Text="Paramètres"
-                    Grid.Column="3"
+                    Grid.Column="2"
                     FontSize="12"
                     TextColor="White"
                     BackgroundColor="Transparent"

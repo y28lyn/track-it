@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ibeir\\dev\\track-it\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7679E5CD-F638-48E9-A073-3360FFBF9C41}|TrackIT\\TrackIT.csproj|c:\\users\\ibeir\\dev\\track-it\\trackit\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7679E5CD-F638-48E9-A073-3360FFBF9C41}|TrackIT\\TrackIT.csproj|solutionrelative:trackit\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7679E5CD-F638-48E9-A073-3360FFBF9C41}|TrackIT\\TrackIT.csproj|c:\\users\\ibeir\\dev\\track-it\\trackit\\pages\\trackitpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7679E5CD-F638-48E9-A073-3360FFBF9C41}|TrackIT\\TrackIT.csproj|solutionrelative:trackit\\pages\\trackitpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7679E5CD-F638-48E9-A073-3360FFBF9C41}|TrackIT\\TrackIT.csproj|c:\\users\\ibeir\\dev\\track-it\\trackit\\viewmodel\\trackitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7679E5CD-F638-48E9-A073-3360FFBF9C41}|TrackIT\\TrackIT.csproj|solutionrelative:trackit\\viewmodel\\trackitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7679E5CD-F638-48E9-A073-3360FFBF9C41}|TrackIT\\TrackIT.csproj|c:\\users\\ibeir\\dev\\track-it\\trackit\\pages\\trackitpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7679E5CD-F638-48E9-A073-3360FFBF9C41}|TrackIT\\TrackIT.csproj|solutionrelative:trackit\\pages\\trackitpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7679E5CD-F638-48E9-A073-3360FFBF9C41}|TrackIT\\TrackIT.csproj|c:\\users\\ibeir\\dev\\track-it\\trackit\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7679E5CD-F638-48E9-A073-3360FFBF9C41}|TrackIT\\TrackIT.csproj|solutionrelative:trackit\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrackItViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\ViewModel\\TrackItViewModel.cs",
+              "RelativeDocumentMoniker": "TrackIT\\ViewModel\\TrackItViewModel.cs",
+              "ToolTip": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\ViewModel\\TrackItViewModel.cs",
+              "RelativeToolTip": "TrackIT\\ViewModel\\TrackItViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:34:59.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackItPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\Pages\\TrackItPage.xaml.cs",
+              "RelativeDocumentMoniker": "TrackIT\\Pages\\TrackItPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\Pages\\TrackItPage.xaml.cs",
+              "RelativeToolTip": "TrackIT\\Pages\\TrackItPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:13:03.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\Pages\\MainPage.xaml",
-              "RelativeDocumentMoniker": "TrackIT\\Pages\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\Pages\\MainPage.xaml",
-              "RelativeToolTip": "TrackIT\\Pages\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "TrackItPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\Pages\\TrackItPage.xaml",
+              "RelativeDocumentMoniker": "TrackIT\\Pages\\TrackItPage.xaml",
+              "ToolTip": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\Pages\\TrackItPage.xaml",
+              "RelativeToolTip": "TrackIT\\Pages\\TrackItPage.xaml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-21T14:55:23.339Z",
+              "WhenOpened": "2024-04-22T13:13:02.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TrackIT\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ibeir\\dev\\track-it\\TrackIT\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "TrackIT\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAIwFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:40:14.175Z",
               "EditorCaption": ""
             }
           ]

@@ -4,54 +4,11 @@
              x:DataType="viewmodel:MainViewModel"
              x:Class="TrackIT.MainPage"
              Title="Accueil">
-    <Grid RowDefinitions="Auto, *" >
-        <Grid Grid.Row="0" BackgroundColor="#3399FF" Padding="2">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
-            </Grid.ColumnDefinitions>
-
-            <Button Text="Accueil"
-                    Grid.Column="0"
-                    FontSize="12"
-                    TextColor="White"
-                    BackgroundColor="Transparent"
-                    BorderColor="Transparent"
-                    Command="{Binding NavigateToHome}" />
-
-            <Button Text="Track It"
-                    Grid.Column="1"
-                    FontSize="12"
-                    TextColor="White"
-                    BackgroundColor="Transparent"
-                    BorderColor="Transparent"
-                    Command="{Binding NavigateToTrackIt}" />
-
-            <Button Text="Profil"
-                    Grid.Column="2"
-                    FontSize="12"
-                    TextColor="White"
-                    BackgroundColor="Transparent"
-                    BorderColor="Transparent"
-                    Command="{Binding NavigateToProfile}" />
-
-            <Button Text="Paramètres"
-                    Grid.Column="3"
-                    FontSize="12"
-                    TextColor="White"
-                    BackgroundColor="Transparent"
-                    BorderColor="Transparent"
-                    Command="{Binding NavigateToSettings}" />
-        </Grid>
-
-        <!-- Contenu de la page -->
+    <!-- Contenu de la page -->
         <StackLayout Grid.Row="1" VerticalOptions="Center" HorizontalOptions="Center" Spacing="10">
             <Entry x:Name="EmailEntry" Placeholder="Email" />
             <Entry x:Name="PasswordEntry" Placeholder="Mot de passe" IsPassword="True" />
             <Button Text="Se connecter" Clicked="OnLoginButtonClicked" />
             <Button Text="Pas encore inscrit ?" Command="{Binding NavigateToRegister}" />
         </StackLayout>
-    </Grid>
 </ContentPage>

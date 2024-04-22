@@ -5,7 +5,6 @@ namespace TrackIT.ViewModel;
 
 public class MainViewModel : ObservableObject
 {
-    public ICommand NavigateToHome { get; }
     public ICommand NavigateToTrackIt { get; }
     public ICommand NavigateToProfile { get; }
     public ICommand NavigateToSettings { get; }
@@ -13,16 +12,10 @@ public class MainViewModel : ObservableObject
 
     public MainViewModel()
     {
-        NavigateToHome = new Command(async () => await MainPage());
         NavigateToTrackIt = new Command(async () => await TrackItPage());
         NavigateToProfile = new Command(async () => await ProfilePage());
         NavigateToSettings = new Command(async () => await SettingsPage());
         NavigateToRegister = new Command(async () => await RegisterPage());
-    }
-
-    private async Task MainPage()
-    {
-        await Shell.Current.GoToAsync("///MainPage");
     }
 
     private async Task TrackItPage()

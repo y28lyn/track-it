@@ -37,7 +37,12 @@ public partial class RegisterPage : ContentPage
                 if (result?.success ?? false)
                 {
                     await DisplayAlert("Succès", "Inscription réussie", "OK");
-                    // Ajouter la logique de navigation après inscription
+
+                    // Ajoutez un délai avant la navigation vers la MainPage
+                    await Task.Delay(1000); // Attendez 1 seconde
+
+                    // Navigation vers la MainPage après une inscription réussie
+                    await Shell.Current.GoToAsync("///MainPage");
                 }
                 else
                 {
